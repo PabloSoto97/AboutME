@@ -1,3 +1,4 @@
+#
 Hola 👋 Mi nombre es Almiron Soto Pablo Emanuel
 🔍 ¿Quién soy?
 Soy un Desarrollador Full Stack con capacidad de desarrollar proyectos Web. Desde chico me interesó el mundo de la Computadoras. Comense con aprender a hacer reparaciones de pc y poco a poco fui adentrandome mas y mas en el mundo de la tecnologia, poco a poco fui por el camino de la programacion, Mi primer lenguaje fue c++ y después me especialicé en JavaScript
